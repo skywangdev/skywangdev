@@ -11,7 +11,7 @@
 [![Blog](https://img.shields.io/badge/Blog-Notes-E82127?style=for-the-badge&labelColor=171A20&logo=rss&logoColor=white)](https://blog.skywangdev.com)
 
 
-### <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODA0NTUwMzYsIm5iZiI6MTc4MDQ1NDczNiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjAzVDAyNDUzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ3YzJlYWIxNjVlODg5MjdmYjI1NzRjOWJlNjQxY2MxODJkMjQ1MmUyNjY4Y2M4MWVmZjdmY2U1Yjk2MzQzNDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.4cw2L7JXcy_uwwejOIyWcIo1tDVS36JriUu0B3WRwFg" width="50"> A little more about me...  
+### About me
 
 ```javascript
 const me = {
