@@ -1,8 +1,7 @@
+![Header](./github-header-banner.png)
 # Hi 👋, I'm skywangdev
 
 ### AI And Linux
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skywangdev&label=Profile views&color=0e75b6&style=flat" alt="skywangdev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/SkyWangTweets" target="blank"><img src="https://img.shields.io/twitter/follow/SkyWangTweets?logo=twitter&style=for-the-badge" alt="SkyWangTweets" /></a> </p>
 
