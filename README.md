@@ -22,6 +22,6 @@ const me = {
 }
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="300"> <em><b>峨眉峰，还他妈独照，颇具浪漫主义气质啊！</b> </em>
+
 
 ---
